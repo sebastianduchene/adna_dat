@@ -1,0 +1,4 @@
+gi|688523604|emb|LL234643.1| Echinostoma caproni genome assembly E_caproni_Egypt, scaffold ECPE_scaffold0001548
+CTTTATTATTTGTATTATAAGTTT---TACCGTCAATTTTATTTTG
+||||||||||||||||||||||||   ||| |||||||| ||| ||
+CTTTATTATTTGTATTATAAGTTTAGATACTGTCAATTTAATTATG

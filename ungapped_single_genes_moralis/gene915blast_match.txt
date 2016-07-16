@@ -1,0 +1,4 @@
+gi|687022021|emb|LM523169.1| Parastrongyloides trichosuri genome assembly P_trichosuri_KNP ,scaffold PTRK_scaffold0000012
+ATTACAAAAAAAGTATATTACATTTATAAAAAATATAAGAGAGTTGTTAAA
+|||| ||||||| | |||| |||| || ||||||||||||   ||||||||
+ATTAAAAAAAAAATTTATTTCATTCATTAAAAATATAAGATTATTGTTAAA

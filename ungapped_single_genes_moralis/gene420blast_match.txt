@@ -1,0 +1,4 @@
+gi|797056872|tpe|HG313984.1| TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 6
+CTTTTGTTTAAATTTCAATTTAACAATAACTTGAC-CTTTACTATTAGTTT----TTTTACTGTATTTTTT
+|||||||||  |||| | |||||||||||||| || ||||| || ||||||    |||| ||||||| |||
+CTTTTGTTTTCATTTTATTTTAACAATAACTTAACGCTTTATTAATAGTTTATGCTTTTTCTGTATTATTT

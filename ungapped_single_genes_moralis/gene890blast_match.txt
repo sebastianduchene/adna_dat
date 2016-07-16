@@ -1,0 +1,4 @@
+gi|669198964|ref|XM_008626270.1| Plasmodium vinckei vinckei phosphatidylinositol 4-kinase partial mRNA
+TTTTTAATAGAATTATTATTTTTATCAAGTTTAACTTTAAAATAATCTCCT-TTTACATCAAATGTATTAT
+|||| |||| |||||||||||||||| | |||   | | |||||||||  | ||||||| |||||||||||
+TTTTAAATA-AATTATTATTTTTATC-ATTTTCTATATTAAATAATCTATTATTTACATAAAATGTATTAT

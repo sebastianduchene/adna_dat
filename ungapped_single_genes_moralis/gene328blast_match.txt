@@ -1,0 +1,4 @@
+gi|687022718|emb|LM525632.1| Strongyloides papillosus genome assembly S_papillosus_LIN ,scaffold SPAL_scaffold0000038
+AAATAATTTCACTATTAAATTGGTTAATTAAATCATCAAAATTCAATTCATTATA
+||||||||||||||||||| | || ||| || ||||   |||| |||||||||||
+AAATAATTTCACTATTAAAAT-GTAAATAAATTCATTGCAATTAAATTCATTATA
